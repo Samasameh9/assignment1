@@ -159,8 +159,8 @@ console.log(split());*/
 /*
 -forEach is an array method that calls a callback fuction once for each element in the array while for of is a loop statement that iterates over the values of an iterable object.
 
--when we need to loop through the values of an iterable use -> for of 
--when we need to execute a fuction for every element i an array use -> for each
+-when you need to execute code in sequence, especially if you're using await with asynchronous operations, use -> for of 
+-for simple iteration when you don't need to wait for each iteration to finish, use -> for each
 */
 //=================================================
 //Question 2
